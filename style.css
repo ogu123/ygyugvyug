@@ -1,0 +1,133 @@
+body{
+    background-color:blue;
+    text-align:center;
+}
+h1{
+    text-align:center;
+    color:red;
+}
+h2{
+    text-align:center;
+    color: white;
+}
+.abominitagus{
+    height:580px;
+    width:420px;
+}
+.abominitagus1{
+    height:580px;
+    width:420px;
+    margin-left:30px;
+}
+.Russell{
+    margin-left:25px;
+    color:red;
+    font-size:28px;
+}
+.TOP10{
+    text-align:left;
+    color:white;
+}
+.poop{
+    color:red;
+}
+.nice{
+    color:white;
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+    color:red;
+}
+.abc{
+    height:250px;
+    width:425px;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    padding:5px;
+  }
+  .dunk{
+    height:400px;
+    width:500px;
+    float:left;
+  }
+  .LA{
+    color:yellow;
+    float:middle;
+  }
+  .topnav{
+    color:red;
+  }
+  a{
+    color: red;
+  }
+  .book_mainDiv
+{
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.book_mainDiv img
+{
+  width: 100%;
+}
+
+.book_mainDiv hr
+{
+    width: 230px; 
+}
+
+.book_mainDiv h5 , .book_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.book_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.book_head i
+{
+float: right;
+}
+
+.book_text span
+{
+color: #ff7700;
+}
+.abcdef{
+    background-color: blue;
+}
+.BULL{
+    color:red;
+}
+.PG5{
+    width:500px;
+    height:500px;
+}
+.list{
+    font-size:35px;
+    float:right;
+}
+.PG6{
+    width:500px;
+    height:600Px;
+}
+.list1{
+    font-size:33px;
+}
+.GSW{
+    color:yellow;
+}
